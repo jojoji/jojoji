@@ -1,0 +1,23 @@
+# AdMob
+google.com, pub-9989159984345836, DIRECT, f08c47fec0942fa0
+
+# Pangle
+pangleglobal.com, 5034643, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
+# 如果有其他聚合买家（参考TopOn后台指引，以下为示例）
+toponad.com, 828562adbb2dfedd8787b3eb42bb21cc, DIRECT, 1d49fe424a1a456d
+33across.com, 001Pg000019IbWWIA0, RESELLER, bbea06d9c4d2853c
+acexchange.co.kr, 1368497933, RESELLER
+adagio.io, 1543, RESELLER
+adform.com, 3243, RESELLER, 9f5210a2f0999e32.
+adingo.jp, 32534, RESELLER
+admixer.net, 1046d8dc-f1a9-439d-a8a5-3401fda83729, RESELLER
+adnimation.com, 20250084, RESELLER
+adyoulike.com, 02bbfc5dd0707834f452ab1bbe855a83, RESELLER
+adyoulike.com, 95dcbc06a550cd02bc6ad7371dd000c7, RESELLER
+amxrtb.com, 105199922, RESELLER
+app-stock.com, 558223, RESELLER, ed8c126ea5971415
+appnexus.com, 15774, RESELLER
+appnexus.com, 16769, RESELLER, f5ab79cb980f11d1
+axonix.com, 59202, RESELLER
